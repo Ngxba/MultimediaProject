@@ -7,7 +7,8 @@
 
 ---
 
-## Chạy mẫu:
+## Chạy mẫu: 
+Điều kiện tiên quyết: Có cài đặt python và nodejs trong máy.
 
 ### Jupiter notebook
 - Mở file jupiter notebook "Canny_Edge_Detector.ipynb" (Code chạy mẫu đã được demo bên trong file)
